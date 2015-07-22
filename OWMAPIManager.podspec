@@ -5,11 +5,8 @@ Pod::Spec.new do |s|
   s.summary      = "OWMAPIManager is an open-source iOS Objective-C library for fetching weather information of OpenWeatherMap using simple blocks based API callbacks."
 
   s.description  = <<-DESC
-				   Its Main purpose is to use OpenWeatherMap API requests with ease in a less lines of code. 
-				   This includes following:
-				    - Current weather data
-				    - 5 day / 3 hour forecast
-				    - Call 16 day / daily forecast data
+				   Its Main purpose is to use OpenWeatherMap API requests with ease in a less lines of code.
+				   - Current weather data, 5 day / 3 hour forecast,16 day / daily forecast data
                    DESC
 
   s.homepage     = "https://github.com/Darshanptl7500/OWMAPIManager"
