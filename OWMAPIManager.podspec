@@ -5,8 +5,8 @@ Pod::Spec.new do |s|
   s.summary      = "OWMAPIManager is an open-source iOS Objective-C library for fetching weather information of OpenWeatherMap using simple blocks based API callbacks."
 
   s.description  = <<-DESC
-				   Its Main purpose is to use OpenWeatherMap API requests with ease in a less lines of code.
-                   DESC
+  Its Main purpose is to use OpenWeatherMap API requests with ease in a less lines of code.
+  DESC
   s.homepage     = "https://github.com/Darshanptl7500/OWMAPIManager"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { "Darshan Patel" => "developer.ios89@gmail.com" }
