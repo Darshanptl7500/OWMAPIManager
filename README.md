@@ -80,10 +80,12 @@ There are below methods are available for getting current weather information.
 ####Example:
 - Fetch weather info by ZipCode
 
-``` [OWMCurrentWeather doFetchWeatherByZipCode:@"380060" withBlock:^(OWMCurrentWeather *weather, NSError *error) {
+```
+[OWMCurrentWeather doFetchWeatherByZipCode:@"380060" withBlock:^(OWMCurrentWeather *weather, NSError *error) {
          if (!error) {  
          }
      }];	 
+
 ```
 
 Please check [OpenWeatherMap Current weather API][2] for request and resonse parameters.
@@ -145,6 +147,4 @@ THE SOFTWARE.
   [3]:http://openweathermap.org/forecast5
   [4]:http://openweathermap.org/forecast16
   [5]:http://openweathermap.org/api
-  [7]:https://developers.google.com/places/webservice/autocomplete
-  [8]:https://developers.google.com/places/webservice/query
   
