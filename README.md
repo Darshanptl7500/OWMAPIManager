@@ -29,7 +29,7 @@ You can take a look at the detailed example usage project *OWMAPIManagerExample/
 
 #### 1. Import OWMAPIManager files in your implementation file
 
-`#import "GPHeader.h"`
+`#import "OWMHeader.h"`
 
 #### 2. Setup OpenWeatherMap API key
 
