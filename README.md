@@ -15,7 +15,7 @@ This includes following:
 ###Cocoapods
 OWMAPIManager is available in cocoapods. you can add it in your project as below
 
-`pod "OWMAPIManager", "~> 1.0"`
+`pod "OWMAPIManager", "~> 1.0.1"`
 
 ### Manual (or using git submodule)
  1. Add [AFNetworking 2.0][4]
