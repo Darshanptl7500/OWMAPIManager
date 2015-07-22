@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = "OMWAPIManager"
+  s.name         = "OWMAPIManager"
   s.version      = "1.0"
   s.summary      = "OWMAPIManager is an open-source iOS Objective-C library for fetching weather information of OpenWeatherMap using simple blocks based API callbacks."
 
@@ -14,13 +14,13 @@ Pod::Spec.new do |s|
 				    - [Call 16 day / daily forecast data] (16 day forecasts/daily forecast informations)
                    DESC
 
-  s.homepage     = "https://github.com/Darshanptl7500/OMWAPIManager"
+  s.homepage     = "https://github.com/Darshanptl7500/OWMAPIManager"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { "Darshan Patel" => "developer.ios89@gmail.com" }
   s.platform     = :ios, '7.0'
-  s.source       = { :git => "https://github.com/Darshanptl7500/OMWAPIManager.git",
+  s.source       = { :git => "https://github.com/Darshanptl7500/OWMAPIManager.git",
                      :tag => s.version.to_s }
-  s.source_files = 'OMWAPIManager/*.{h,m}'
+  s.source_files = 'OWMAPIManager/*.{h,m}'
   s.requires_arc = true
   s.dependency 'AFNetworking', '~> 2.2'
 

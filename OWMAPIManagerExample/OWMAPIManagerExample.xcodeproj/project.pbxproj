@@ -14,28 +14,28 @@
 		7B77920F1B5FC94800CC9A59 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B77920E1B5FC94800CC9A59 /* Images.xcassets */; };
 		7B7792121B5FC94800CC9A59 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7B7792101B5FC94800CC9A59 /* LaunchScreen.xib */; };
 		7B77921E1B5FC94800CC9A59 /* OWMAPIManagerExampleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77921D1B5FC94800CC9A59 /* OWMAPIManagerExampleTests.m */; };
-		7B77922F1B5FCA0500CC9A59 /* OWMForeCastDaily.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77922E1B5FCA0500CC9A59 /* OWMForeCastDaily.m */; };
-		7B7792391B5FCA1800CC9A59 /* FCDList.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792321B5FCA1800CC9A59 /* FCDList.m */; };
-		7B77923A1B5FCA1800CC9A59 /* FCDTemp.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792341B5FCA1800CC9A59 /* FCDTemp.m */; };
-		7B77923B1B5FCA1800CC9A59 /* FCDWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792361B5FCA1800CC9A59 /* FCDWeather.m */; };
-		7B77923C1B5FCA1800CC9A59 /* FCDCity.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792381B5FCA1800CC9A59 /* FCDCity.m */; };
-		7B7792401B5FCA2B00CC9A59 /* OWMForeCastFive.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77923F1B5FCA2B00CC9A59 /* OWMForeCastFive.m */; };
-		7B7792521B5FCA5700CC9A59 /* FCFList.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792431B5FCA5700CC9A59 /* FCFList.m */; };
-		7B7792531B5FCA5700CC9A59 /* FCFCity.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792451B5FCA5700CC9A59 /* FCFCity.m */; };
-		7B7792541B5FCA5700CC9A59 /* FCFMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792471B5FCA5700CC9A59 /* FCFMain.m */; };
-		7B7792551B5FCA5700CC9A59 /* FCFWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792491B5FCA5700CC9A59 /* FCFWeather.m */; };
-		7B7792561B5FCA5700CC9A59 /* FCFClouds.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77924B1B5FCA5700CC9A59 /* FCFClouds.m */; };
-		7B7792571B5FCA5700CC9A59 /* FCFWind.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77924D1B5FCA5700CC9A59 /* FCFWind.m */; };
-		7B7792581B5FCA5700CC9A59 /* FCFRain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77924F1B5FCA5700CC9A59 /* FCFRain.m */; };
-		7B7792591B5FCA5700CC9A59 /* FCFSnow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792511B5FCA5700CC9A59 /* FCFSnow.m */; };
-		7B7792661B5FCA7900CC9A59 /* CWWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77925D1B5FCA7900CC9A59 /* CWWeather.m */; };
-		7B7792671B5FCA7900CC9A59 /* CWMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77925F1B5FCA7900CC9A59 /* CWMain.m */; };
-		7B7792681B5FCA7900CC9A59 /* CWWind.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792611B5FCA7900CC9A59 /* CWWind.m */; };
-		7B7792691B5FCA7900CC9A59 /* CWClouds.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792631B5FCA7900CC9A59 /* CWClouds.m */; };
-		7B77926A1B5FCA7900CC9A59 /* CWSys.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792651B5FCA7900CC9A59 /* CWSys.m */; };
-		7B77926D1B5FCA8600CC9A59 /* OWMCurrentWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77926C1B5FCA8600CC9A59 /* OWMCurrentWeather.m */; };
-		7B7792731B5FCA9500CC9A59 /* OWMAPISetup.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792701B5FCA9500CC9A59 /* OWMAPISetup.m */; };
-		7B7792741B5FCA9500CC9A59 /* OWMAPIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792721B5FCA9500CC9A59 /* OWMAPIClient.m */; };
+		7B7792A41B5FCF6F00CC9A59 /* CWClouds.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792771B5FCF6F00CC9A59 /* CWClouds.m */; };
+		7B7792A51B5FCF6F00CC9A59 /* CWMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792791B5FCF6F00CC9A59 /* CWMain.m */; };
+		7B7792A61B5FCF6F00CC9A59 /* CWSys.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77927B1B5FCF6F00CC9A59 /* CWSys.m */; };
+		7B7792A71B5FCF6F00CC9A59 /* CWWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77927D1B5FCF6F00CC9A59 /* CWWeather.m */; };
+		7B7792A81B5FCF6F00CC9A59 /* CWWind.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77927F1B5FCF6F00CC9A59 /* CWWind.m */; };
+		7B7792A91B5FCF6F00CC9A59 /* FCDCity.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792811B5FCF6F00CC9A59 /* FCDCity.m */; };
+		7B7792AA1B5FCF6F00CC9A59 /* FCDList.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792831B5FCF6F00CC9A59 /* FCDList.m */; };
+		7B7792AB1B5FCF6F00CC9A59 /* FCDTemp.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792851B5FCF6F00CC9A59 /* FCDTemp.m */; };
+		7B7792AC1B5FCF6F00CC9A59 /* FCDWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792871B5FCF6F00CC9A59 /* FCDWeather.m */; };
+		7B7792AD1B5FCF6F00CC9A59 /* FCFCity.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792891B5FCF6F00CC9A59 /* FCFCity.m */; };
+		7B7792AE1B5FCF6F00CC9A59 /* FCFClouds.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77928B1B5FCF6F00CC9A59 /* FCFClouds.m */; };
+		7B7792AF1B5FCF6F00CC9A59 /* FCFList.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77928D1B5FCF6F00CC9A59 /* FCFList.m */; };
+		7B7792B01B5FCF6F00CC9A59 /* FCFMain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77928F1B5FCF6F00CC9A59 /* FCFMain.m */; };
+		7B7792B11B5FCF6F00CC9A59 /* FCFRain.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792911B5FCF6F00CC9A59 /* FCFRain.m */; };
+		7B7792B21B5FCF6F00CC9A59 /* FCFSnow.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792931B5FCF6F00CC9A59 /* FCFSnow.m */; };
+		7B7792B31B5FCF6F00CC9A59 /* FCFWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792951B5FCF6F00CC9A59 /* FCFWeather.m */; };
+		7B7792B41B5FCF6F00CC9A59 /* FCFWind.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792971B5FCF6F00CC9A59 /* FCFWind.m */; };
+		7B7792B51B5FCF6F00CC9A59 /* OWMAPIClient.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792991B5FCF6F00CC9A59 /* OWMAPIClient.m */; };
+		7B7792B61B5FCF6F00CC9A59 /* OWMAPISetup.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77929B1B5FCF6F00CC9A59 /* OWMAPISetup.m */; };
+		7B7792B71B5FCF6F00CC9A59 /* OWMCurrentWeather.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B77929E1B5FCF6F00CC9A59 /* OWMCurrentWeather.m */; };
+		7B7792B81B5FCF6F00CC9A59 /* OWMForeCastDaily.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792A01B5FCF6F00CC9A59 /* OWMForeCastDaily.m */; };
+		7B7792B91B5FCF6F00CC9A59 /* OWMForeCastFive.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7792A21B5FCF6F00CC9A59 /* OWMForeCastFive.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,52 +62,52 @@
 		7B7792171B5FC94800CC9A59 /* OWMAPIManagerExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OWMAPIManagerExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B77921C1B5FC94800CC9A59 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7B77921D1B5FC94800CC9A59 /* OWMAPIManagerExampleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = OWMAPIManagerExampleTests.m; sourceTree = "<group>"; };
-		7B77922A1B5FC9F000CC9A59 /* OWMHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMHeader.h; sourceTree = "<group>"; };
-		7B77922B1B5FC9F000CC9A59 /* OWMConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMConstant.h; sourceTree = "<group>"; };
-		7B77922D1B5FCA0500CC9A59 /* OWMForeCastDaily.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMForeCastDaily.h; sourceTree = "<group>"; };
-		7B77922E1B5FCA0500CC9A59 /* OWMForeCastDaily.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMForeCastDaily.m; sourceTree = "<group>"; };
-		7B7792311B5FCA1800CC9A59 /* FCDList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDList.h; sourceTree = "<group>"; };
-		7B7792321B5FCA1800CC9A59 /* FCDList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDList.m; sourceTree = "<group>"; };
-		7B7792331B5FCA1800CC9A59 /* FCDTemp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDTemp.h; sourceTree = "<group>"; };
-		7B7792341B5FCA1800CC9A59 /* FCDTemp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDTemp.m; sourceTree = "<group>"; };
-		7B7792351B5FCA1800CC9A59 /* FCDWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDWeather.h; sourceTree = "<group>"; };
-		7B7792361B5FCA1800CC9A59 /* FCDWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDWeather.m; sourceTree = "<group>"; };
-		7B7792371B5FCA1800CC9A59 /* FCDCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDCity.h; sourceTree = "<group>"; };
-		7B7792381B5FCA1800CC9A59 /* FCDCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDCity.m; sourceTree = "<group>"; };
-		7B77923E1B5FCA2B00CC9A59 /* OWMForeCastFive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMForeCastFive.h; sourceTree = "<group>"; };
-		7B77923F1B5FCA2B00CC9A59 /* OWMForeCastFive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMForeCastFive.m; sourceTree = "<group>"; };
-		7B7792421B5FCA5700CC9A59 /* FCFList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFList.h; sourceTree = "<group>"; };
-		7B7792431B5FCA5700CC9A59 /* FCFList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFList.m; sourceTree = "<group>"; };
-		7B7792441B5FCA5700CC9A59 /* FCFCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFCity.h; sourceTree = "<group>"; };
-		7B7792451B5FCA5700CC9A59 /* FCFCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFCity.m; sourceTree = "<group>"; };
-		7B7792461B5FCA5700CC9A59 /* FCFMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFMain.h; sourceTree = "<group>"; };
-		7B7792471B5FCA5700CC9A59 /* FCFMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFMain.m; sourceTree = "<group>"; };
-		7B7792481B5FCA5700CC9A59 /* FCFWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFWeather.h; sourceTree = "<group>"; };
-		7B7792491B5FCA5700CC9A59 /* FCFWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFWeather.m; sourceTree = "<group>"; };
-		7B77924A1B5FCA5700CC9A59 /* FCFClouds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFClouds.h; sourceTree = "<group>"; };
-		7B77924B1B5FCA5700CC9A59 /* FCFClouds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFClouds.m; sourceTree = "<group>"; };
-		7B77924C1B5FCA5700CC9A59 /* FCFWind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFWind.h; sourceTree = "<group>"; };
-		7B77924D1B5FCA5700CC9A59 /* FCFWind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFWind.m; sourceTree = "<group>"; };
-		7B77924E1B5FCA5700CC9A59 /* FCFRain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFRain.h; sourceTree = "<group>"; };
-		7B77924F1B5FCA5700CC9A59 /* FCFRain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFRain.m; sourceTree = "<group>"; };
-		7B7792501B5FCA5700CC9A59 /* FCFSnow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFSnow.h; sourceTree = "<group>"; };
-		7B7792511B5FCA5700CC9A59 /* FCFSnow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFSnow.m; sourceTree = "<group>"; };
-		7B77925C1B5FCA7900CC9A59 /* CWWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWWeather.h; sourceTree = "<group>"; };
-		7B77925D1B5FCA7900CC9A59 /* CWWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWWeather.m; sourceTree = "<group>"; };
-		7B77925E1B5FCA7900CC9A59 /* CWMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWMain.h; sourceTree = "<group>"; };
-		7B77925F1B5FCA7900CC9A59 /* CWMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWMain.m; sourceTree = "<group>"; };
-		7B7792601B5FCA7900CC9A59 /* CWWind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWWind.h; sourceTree = "<group>"; };
-		7B7792611B5FCA7900CC9A59 /* CWWind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWWind.m; sourceTree = "<group>"; };
-		7B7792621B5FCA7900CC9A59 /* CWClouds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWClouds.h; sourceTree = "<group>"; };
-		7B7792631B5FCA7900CC9A59 /* CWClouds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWClouds.m; sourceTree = "<group>"; };
-		7B7792641B5FCA7900CC9A59 /* CWSys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWSys.h; sourceTree = "<group>"; };
-		7B7792651B5FCA7900CC9A59 /* CWSys.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWSys.m; sourceTree = "<group>"; };
-		7B77926B1B5FCA8600CC9A59 /* OWMCurrentWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMCurrentWeather.h; sourceTree = "<group>"; };
-		7B77926C1B5FCA8600CC9A59 /* OWMCurrentWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMCurrentWeather.m; sourceTree = "<group>"; };
-		7B77926F1B5FCA9500CC9A59 /* OWMAPISetup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMAPISetup.h; sourceTree = "<group>"; };
-		7B7792701B5FCA9500CC9A59 /* OWMAPISetup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMAPISetup.m; sourceTree = "<group>"; };
-		7B7792711B5FCA9500CC9A59 /* OWMAPIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMAPIClient.h; sourceTree = "<group>"; };
-		7B7792721B5FCA9500CC9A59 /* OWMAPIClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMAPIClient.m; sourceTree = "<group>"; };
+		7B7792761B5FCF6F00CC9A59 /* CWClouds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWClouds.h; sourceTree = "<group>"; };
+		7B7792771B5FCF6F00CC9A59 /* CWClouds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWClouds.m; sourceTree = "<group>"; };
+		7B7792781B5FCF6F00CC9A59 /* CWMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWMain.h; sourceTree = "<group>"; };
+		7B7792791B5FCF6F00CC9A59 /* CWMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWMain.m; sourceTree = "<group>"; };
+		7B77927A1B5FCF6F00CC9A59 /* CWSys.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWSys.h; sourceTree = "<group>"; };
+		7B77927B1B5FCF6F00CC9A59 /* CWSys.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWSys.m; sourceTree = "<group>"; };
+		7B77927C1B5FCF6F00CC9A59 /* CWWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWWeather.h; sourceTree = "<group>"; };
+		7B77927D1B5FCF6F00CC9A59 /* CWWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWWeather.m; sourceTree = "<group>"; };
+		7B77927E1B5FCF6F00CC9A59 /* CWWind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CWWind.h; sourceTree = "<group>"; };
+		7B77927F1B5FCF6F00CC9A59 /* CWWind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CWWind.m; sourceTree = "<group>"; };
+		7B7792801B5FCF6F00CC9A59 /* FCDCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDCity.h; sourceTree = "<group>"; };
+		7B7792811B5FCF6F00CC9A59 /* FCDCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDCity.m; sourceTree = "<group>"; };
+		7B7792821B5FCF6F00CC9A59 /* FCDList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDList.h; sourceTree = "<group>"; };
+		7B7792831B5FCF6F00CC9A59 /* FCDList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDList.m; sourceTree = "<group>"; };
+		7B7792841B5FCF6F00CC9A59 /* FCDTemp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDTemp.h; sourceTree = "<group>"; };
+		7B7792851B5FCF6F00CC9A59 /* FCDTemp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDTemp.m; sourceTree = "<group>"; };
+		7B7792861B5FCF6F00CC9A59 /* FCDWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCDWeather.h; sourceTree = "<group>"; };
+		7B7792871B5FCF6F00CC9A59 /* FCDWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCDWeather.m; sourceTree = "<group>"; };
+		7B7792881B5FCF6F00CC9A59 /* FCFCity.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFCity.h; sourceTree = "<group>"; };
+		7B7792891B5FCF6F00CC9A59 /* FCFCity.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFCity.m; sourceTree = "<group>"; };
+		7B77928A1B5FCF6F00CC9A59 /* FCFClouds.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFClouds.h; sourceTree = "<group>"; };
+		7B77928B1B5FCF6F00CC9A59 /* FCFClouds.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFClouds.m; sourceTree = "<group>"; };
+		7B77928C1B5FCF6F00CC9A59 /* FCFList.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFList.h; sourceTree = "<group>"; };
+		7B77928D1B5FCF6F00CC9A59 /* FCFList.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFList.m; sourceTree = "<group>"; };
+		7B77928E1B5FCF6F00CC9A59 /* FCFMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFMain.h; sourceTree = "<group>"; };
+		7B77928F1B5FCF6F00CC9A59 /* FCFMain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFMain.m; sourceTree = "<group>"; };
+		7B7792901B5FCF6F00CC9A59 /* FCFRain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFRain.h; sourceTree = "<group>"; };
+		7B7792911B5FCF6F00CC9A59 /* FCFRain.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFRain.m; sourceTree = "<group>"; };
+		7B7792921B5FCF6F00CC9A59 /* FCFSnow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFSnow.h; sourceTree = "<group>"; };
+		7B7792931B5FCF6F00CC9A59 /* FCFSnow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFSnow.m; sourceTree = "<group>"; };
+		7B7792941B5FCF6F00CC9A59 /* FCFWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFWeather.h; sourceTree = "<group>"; };
+		7B7792951B5FCF6F00CC9A59 /* FCFWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFWeather.m; sourceTree = "<group>"; };
+		7B7792961B5FCF6F00CC9A59 /* FCFWind.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FCFWind.h; sourceTree = "<group>"; };
+		7B7792971B5FCF6F00CC9A59 /* FCFWind.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FCFWind.m; sourceTree = "<group>"; };
+		7B7792981B5FCF6F00CC9A59 /* OWMAPIClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMAPIClient.h; sourceTree = "<group>"; };
+		7B7792991B5FCF6F00CC9A59 /* OWMAPIClient.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMAPIClient.m; sourceTree = "<group>"; };
+		7B77929A1B5FCF6F00CC9A59 /* OWMAPISetup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMAPISetup.h; sourceTree = "<group>"; };
+		7B77929B1B5FCF6F00CC9A59 /* OWMAPISetup.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMAPISetup.m; sourceTree = "<group>"; };
+		7B77929C1B5FCF6F00CC9A59 /* OWMConstant.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMConstant.h; sourceTree = "<group>"; };
+		7B77929D1B5FCF6F00CC9A59 /* OWMCurrentWeather.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMCurrentWeather.h; sourceTree = "<group>"; };
+		7B77929E1B5FCF6F00CC9A59 /* OWMCurrentWeather.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMCurrentWeather.m; sourceTree = "<group>"; };
+		7B77929F1B5FCF6F00CC9A59 /* OWMForeCastDaily.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMForeCastDaily.h; sourceTree = "<group>"; };
+		7B7792A01B5FCF6F00CC9A59 /* OWMForeCastDaily.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMForeCastDaily.m; sourceTree = "<group>"; };
+		7B7792A11B5FCF6F00CC9A59 /* OWMForeCastFive.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMForeCastFive.h; sourceTree = "<group>"; };
+		7B7792A21B5FCF6F00CC9A59 /* OWMForeCastFive.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OWMForeCastFive.m; sourceTree = "<group>"; };
+		7B7792A31B5FCF6F00CC9A59 /* OWMHeader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OWMHeader.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,7 +131,7 @@
 		7B7791F51B5FC94800CC9A59 = {
 			isa = PBXGroup;
 			children = (
-				7B7792271B5FC9C200CC9A59 /* OMWAPIManager */,
+				7B7792751B5FCF6F00CC9A59 /* OWMAPIManager */,
 				7B7792001B5FC94800CC9A59 /* OWMAPIManagerExample */,
 				7B77921A1B5FC94800CC9A59 /* OWMAPIManagerExampleTests */,
 				7B7791FF1B5FC94800CC9A59 /* Products */,
@@ -188,114 +188,58 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		7B7792271B5FC9C200CC9A59 /* OMWAPIManager */ = {
+		7B7792751B5FCF6F00CC9A59 /* OWMAPIManager */ = {
 			isa = PBXGroup;
 			children = (
-				7B77922A1B5FC9F000CC9A59 /* OWMHeader.h */,
-				7B77922B1B5FC9F000CC9A59 /* OWMConstant.h */,
-				7B77926E1B5FCA8E00CC9A59 /* OWMAPIClient */,
-				7B77925A1B5FCA6300CC9A59 /* CurrentWeather */,
-				7B77922C1B5FC9FA00CC9A59 /* ForeCastDaily */,
-				7B77923D1B5FCA2400CC9A59 /* ForeCastFiveDays */,
+				7B7792761B5FCF6F00CC9A59 /* CWClouds.h */,
+				7B7792771B5FCF6F00CC9A59 /* CWClouds.m */,
+				7B7792781B5FCF6F00CC9A59 /* CWMain.h */,
+				7B7792791B5FCF6F00CC9A59 /* CWMain.m */,
+				7B77927A1B5FCF6F00CC9A59 /* CWSys.h */,
+				7B77927B1B5FCF6F00CC9A59 /* CWSys.m */,
+				7B77927C1B5FCF6F00CC9A59 /* CWWeather.h */,
+				7B77927D1B5FCF6F00CC9A59 /* CWWeather.m */,
+				7B77927E1B5FCF6F00CC9A59 /* CWWind.h */,
+				7B77927F1B5FCF6F00CC9A59 /* CWWind.m */,
+				7B7792801B5FCF6F00CC9A59 /* FCDCity.h */,
+				7B7792811B5FCF6F00CC9A59 /* FCDCity.m */,
+				7B7792821B5FCF6F00CC9A59 /* FCDList.h */,
+				7B7792831B5FCF6F00CC9A59 /* FCDList.m */,
+				7B7792841B5FCF6F00CC9A59 /* FCDTemp.h */,
+				7B7792851B5FCF6F00CC9A59 /* FCDTemp.m */,
+				7B7792861B5FCF6F00CC9A59 /* FCDWeather.h */,
+				7B7792871B5FCF6F00CC9A59 /* FCDWeather.m */,
+				7B7792881B5FCF6F00CC9A59 /* FCFCity.h */,
+				7B7792891B5FCF6F00CC9A59 /* FCFCity.m */,
+				7B77928A1B5FCF6F00CC9A59 /* FCFClouds.h */,
+				7B77928B1B5FCF6F00CC9A59 /* FCFClouds.m */,
+				7B77928C1B5FCF6F00CC9A59 /* FCFList.h */,
+				7B77928D1B5FCF6F00CC9A59 /* FCFList.m */,
+				7B77928E1B5FCF6F00CC9A59 /* FCFMain.h */,
+				7B77928F1B5FCF6F00CC9A59 /* FCFMain.m */,
+				7B7792901B5FCF6F00CC9A59 /* FCFRain.h */,
+				7B7792911B5FCF6F00CC9A59 /* FCFRain.m */,
+				7B7792921B5FCF6F00CC9A59 /* FCFSnow.h */,
+				7B7792931B5FCF6F00CC9A59 /* FCFSnow.m */,
+				7B7792941B5FCF6F00CC9A59 /* FCFWeather.h */,
+				7B7792951B5FCF6F00CC9A59 /* FCFWeather.m */,
+				7B7792961B5FCF6F00CC9A59 /* FCFWind.h */,
+				7B7792971B5FCF6F00CC9A59 /* FCFWind.m */,
+				7B7792981B5FCF6F00CC9A59 /* OWMAPIClient.h */,
+				7B7792991B5FCF6F00CC9A59 /* OWMAPIClient.m */,
+				7B77929A1B5FCF6F00CC9A59 /* OWMAPISetup.h */,
+				7B77929B1B5FCF6F00CC9A59 /* OWMAPISetup.m */,
+				7B77929C1B5FCF6F00CC9A59 /* OWMConstant.h */,
+				7B77929D1B5FCF6F00CC9A59 /* OWMCurrentWeather.h */,
+				7B77929E1B5FCF6F00CC9A59 /* OWMCurrentWeather.m */,
+				7B77929F1B5FCF6F00CC9A59 /* OWMForeCastDaily.h */,
+				7B7792A01B5FCF6F00CC9A59 /* OWMForeCastDaily.m */,
+				7B7792A11B5FCF6F00CC9A59 /* OWMForeCastFive.h */,
+				7B7792A21B5FCF6F00CC9A59 /* OWMForeCastFive.m */,
+				7B7792A31B5FCF6F00CC9A59 /* OWMHeader.h */,
 			);
-			name = OMWAPIManager;
-			path = ../OMWAPIManager;
-			sourceTree = "<group>";
-		};
-		7B77922C1B5FC9FA00CC9A59 /* ForeCastDaily */ = {
-			isa = PBXGroup;
-			children = (
-				7B7792301B5FCA0E00CC9A59 /* Model */,
-				7B77922D1B5FCA0500CC9A59 /* OWMForeCastDaily.h */,
-				7B77922E1B5FCA0500CC9A59 /* OWMForeCastDaily.m */,
-			);
-			name = ForeCastDaily;
-			sourceTree = "<group>";
-		};
-		7B7792301B5FCA0E00CC9A59 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				7B7792311B5FCA1800CC9A59 /* FCDList.h */,
-				7B7792321B5FCA1800CC9A59 /* FCDList.m */,
-				7B7792331B5FCA1800CC9A59 /* FCDTemp.h */,
-				7B7792341B5FCA1800CC9A59 /* FCDTemp.m */,
-				7B7792351B5FCA1800CC9A59 /* FCDWeather.h */,
-				7B7792361B5FCA1800CC9A59 /* FCDWeather.m */,
-				7B7792371B5FCA1800CC9A59 /* FCDCity.h */,
-				7B7792381B5FCA1800CC9A59 /* FCDCity.m */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
-		7B77923D1B5FCA2400CC9A59 /* ForeCastFiveDays */ = {
-			isa = PBXGroup;
-			children = (
-				7B7792411B5FCA3600CC9A59 /* Model */,
-				7B77923E1B5FCA2B00CC9A59 /* OWMForeCastFive.h */,
-				7B77923F1B5FCA2B00CC9A59 /* OWMForeCastFive.m */,
-			);
-			name = ForeCastFiveDays;
-			sourceTree = "<group>";
-		};
-		7B7792411B5FCA3600CC9A59 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				7B7792421B5FCA5700CC9A59 /* FCFList.h */,
-				7B7792431B5FCA5700CC9A59 /* FCFList.m */,
-				7B7792441B5FCA5700CC9A59 /* FCFCity.h */,
-				7B7792451B5FCA5700CC9A59 /* FCFCity.m */,
-				7B7792461B5FCA5700CC9A59 /* FCFMain.h */,
-				7B7792471B5FCA5700CC9A59 /* FCFMain.m */,
-				7B7792481B5FCA5700CC9A59 /* FCFWeather.h */,
-				7B7792491B5FCA5700CC9A59 /* FCFWeather.m */,
-				7B77924A1B5FCA5700CC9A59 /* FCFClouds.h */,
-				7B77924B1B5FCA5700CC9A59 /* FCFClouds.m */,
-				7B77924C1B5FCA5700CC9A59 /* FCFWind.h */,
-				7B77924D1B5FCA5700CC9A59 /* FCFWind.m */,
-				7B77924E1B5FCA5700CC9A59 /* FCFRain.h */,
-				7B77924F1B5FCA5700CC9A59 /* FCFRain.m */,
-				7B7792501B5FCA5700CC9A59 /* FCFSnow.h */,
-				7B7792511B5FCA5700CC9A59 /* FCFSnow.m */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
-		7B77925A1B5FCA6300CC9A59 /* CurrentWeather */ = {
-			isa = PBXGroup;
-			children = (
-				7B77926B1B5FCA8600CC9A59 /* OWMCurrentWeather.h */,
-				7B77926C1B5FCA8600CC9A59 /* OWMCurrentWeather.m */,
-				7B77925B1B5FCA7100CC9A59 /* Model */,
-			);
-			name = CurrentWeather;
-			sourceTree = "<group>";
-		};
-		7B77925B1B5FCA7100CC9A59 /* Model */ = {
-			isa = PBXGroup;
-			children = (
-				7B77925C1B5FCA7900CC9A59 /* CWWeather.h */,
-				7B77925D1B5FCA7900CC9A59 /* CWWeather.m */,
-				7B77925E1B5FCA7900CC9A59 /* CWMain.h */,
-				7B77925F1B5FCA7900CC9A59 /* CWMain.m */,
-				7B7792601B5FCA7900CC9A59 /* CWWind.h */,
-				7B7792611B5FCA7900CC9A59 /* CWWind.m */,
-				7B7792621B5FCA7900CC9A59 /* CWClouds.h */,
-				7B7792631B5FCA7900CC9A59 /* CWClouds.m */,
-				7B7792641B5FCA7900CC9A59 /* CWSys.h */,
-				7B7792651B5FCA7900CC9A59 /* CWSys.m */,
-			);
-			name = Model;
-			sourceTree = "<group>";
-		};
-		7B77926E1B5FCA8E00CC9A59 /* OWMAPIClient */ = {
-			isa = PBXGroup;
-			children = (
-				7B77926F1B5FCA9500CC9A59 /* OWMAPISetup.h */,
-				7B7792701B5FCA9500CC9A59 /* OWMAPISetup.m */,
-				7B7792711B5FCA9500CC9A59 /* OWMAPIClient.h */,
-				7B7792721B5FCA9500CC9A59 /* OWMAPIClient.m */,
-			);
-			name = OWMAPIClient;
+			name = OWMAPIManager;
+			path = ../OWMAPIManager;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -398,31 +342,31 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7B7792531B5FCA5700CC9A59 /* FCFCity.m in Sources */,
 				7B77920A1B5FC94800CC9A59 /* ViewController.m in Sources */,
+				7B7792A51B5FCF6F00CC9A59 /* CWMain.m in Sources */,
+				7B7792B81B5FCF6F00CC9A59 /* OWMForeCastDaily.m in Sources */,
+				7B7792AF1B5FCF6F00CC9A59 /* FCFList.m in Sources */,
+				7B7792AD1B5FCF6F00CC9A59 /* FCFCity.m in Sources */,
+				7B7792A41B5FCF6F00CC9A59 /* CWClouds.m in Sources */,
+				7B7792B71B5FCF6F00CC9A59 /* OWMCurrentWeather.m in Sources */,
+				7B7792B41B5FCF6F00CC9A59 /* FCFWind.m in Sources */,
+				7B7792A71B5FCF6F00CC9A59 /* CWWeather.m in Sources */,
+				7B7792AE1B5FCF6F00CC9A59 /* FCFClouds.m in Sources */,
+				7B7792B61B5FCF6F00CC9A59 /* OWMAPISetup.m in Sources */,
+				7B7792A61B5FCF6F00CC9A59 /* CWSys.m in Sources */,
+				7B7792B21B5FCF6F00CC9A59 /* FCFSnow.m in Sources */,
+				7B7792B01B5FCF6F00CC9A59 /* FCFMain.m in Sources */,
 				7B7792071B5FC94800CC9A59 /* AppDelegate.m in Sources */,
-				7B77923C1B5FCA1800CC9A59 /* FCDCity.m in Sources */,
-				7B7792671B5FCA7900CC9A59 /* CWMain.m in Sources */,
-				7B77926D1B5FCA8600CC9A59 /* OWMCurrentWeather.m in Sources */,
-				7B7792691B5FCA7900CC9A59 /* CWClouds.m in Sources */,
-				7B7792391B5FCA1800CC9A59 /* FCDList.m in Sources */,
-				7B7792571B5FCA5700CC9A59 /* FCFWind.m in Sources */,
-				7B7792561B5FCA5700CC9A59 /* FCFClouds.m in Sources */,
-				7B77922F1B5FCA0500CC9A59 /* OWMForeCastDaily.m in Sources */,
-				7B7792661B5FCA7900CC9A59 /* CWWeather.m in Sources */,
-				7B7792551B5FCA5700CC9A59 /* FCFWeather.m in Sources */,
-				7B7792681B5FCA7900CC9A59 /* CWWind.m in Sources */,
-				7B7792741B5FCA9500CC9A59 /* OWMAPIClient.m in Sources */,
-				7B7792731B5FCA9500CC9A59 /* OWMAPISetup.m in Sources */,
-				7B7792591B5FCA5700CC9A59 /* FCFSnow.m in Sources */,
-				7B7792401B5FCA2B00CC9A59 /* OWMForeCastFive.m in Sources */,
+				7B7792B91B5FCF6F00CC9A59 /* OWMForeCastFive.m in Sources */,
+				7B7792B51B5FCF6F00CC9A59 /* OWMAPIClient.m in Sources */,
+				7B7792B31B5FCF6F00CC9A59 /* FCFWeather.m in Sources */,
 				7B7792041B5FC94800CC9A59 /* main.m in Sources */,
-				7B7792541B5FCA5700CC9A59 /* FCFMain.m in Sources */,
-				7B7792521B5FCA5700CC9A59 /* FCFList.m in Sources */,
-				7B7792581B5FCA5700CC9A59 /* FCFRain.m in Sources */,
-				7B77926A1B5FCA7900CC9A59 /* CWSys.m in Sources */,
-				7B77923A1B5FCA1800CC9A59 /* FCDTemp.m in Sources */,
-				7B77923B1B5FCA1800CC9A59 /* FCDWeather.m in Sources */,
+				7B7792AA1B5FCF6F00CC9A59 /* FCDList.m in Sources */,
+				7B7792B11B5FCF6F00CC9A59 /* FCFRain.m in Sources */,
+				7B7792AC1B5FCF6F00CC9A59 /* FCDWeather.m in Sources */,
+				7B7792AB1B5FCF6F00CC9A59 /* FCDTemp.m in Sources */,
+				7B7792A81B5FCF6F00CC9A59 /* CWWind.m in Sources */,
+				7B7792A91B5FCF6F00CC9A59 /* FCDCity.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
