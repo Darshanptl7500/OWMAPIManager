@@ -6,9 +6,7 @@ Pod::Spec.new do |s|
 
   s.description  = <<-DESC
 				   Its Main purpose is to use OpenWeatherMap API requests with ease in a less lines of code.
-				   - Current weather data, 5 day / 3 hour forecast,16 day / daily forecast data
                    DESC
-
   s.homepage     = "https://github.com/Darshanptl7500/OWMAPIManager"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.authors      = { "Darshan Patel" => "developer.ios89@gmail.com" }
