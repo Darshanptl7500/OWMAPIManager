@@ -100,6 +100,9 @@ Please check [OpenWeatherMap Current weather API][2] for request and resonse par
 - Add Example project on how to use this library.
 - Write test cases for this library.
 
+##Android
+- Check [OpenWeatherMapAPI](https://github.com/pchauhan/OpenWeatherMapAPI) in android.
+
 ##Contact
 
 OWMAPIManager is developed by [Darshan Patel](http://iosexception.com). Please [email](mailto:developer.ios89@gmail.com) to let me know you how you are using this library and anything related to this library.
